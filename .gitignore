@@ -1,2 +1,7 @@
 build/
 node_modules/
+artifacts/
+cache/
+*.DS_Store*
+package-lock.json
+yarn.lock
